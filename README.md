@@ -1,6 +1,6 @@
 <div align="center">
     <!-- Centered and Larger Streak Card -->
-    <a href="https://github.com/kushdhingra"><img src="https://github-readme-streak-stats-nu-tawny.vercel.app/?user=kushdhingra&theme=catppuccin-mocha&hide_border=true" width="80%" alt="Streak" /></a>
+    <a href="https://github.com/kushdhingra"><img src="https://streak-stats.demolab.com?user=kushdhingra&theme=catppuccin-mocha&hide_border=true" width="80%" alt="Streak" /></a>
 </div>
 <div align="center">
     <!-- Stats and Languages Side-by-Side -->
