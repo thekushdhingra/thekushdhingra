@@ -4,20 +4,16 @@
   </a>
 </div>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/kushdhingra">
-        <img src="https://github-readme-stats.vercel.app/api?username=kushdhingra&theme=catppuccin_mocha&show_icons=true&hide_border=true" alt="Stats" height="195px" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/kushdhingra">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushdhingra&theme=catppuccin_mocha&show_icons=true&layout=donut-vertical&hide_border=true" alt="Languages" height="195px" />
-      </a>
-    </td>
-  </tr>
-</table>
+<td align="center">
+  <a href="https://github.com/kushdhingra">
+    <img src="https://github-readme-stats.vercel.app/api?username=kushdhingra&theme=catppuccin_mocha&show_icons=true&hide_border=true" alt="Stats" />
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/kushdhingra">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushdhingra&theme=catppuccin_mocha&show_icons=true&layout=donut-vertical&hide_border=true" alt="Languages"/>
+  </a>
+</td>
 
 <div align="center">
   <a href="https://discord.com/users/1035869217796403220">
