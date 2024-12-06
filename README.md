@@ -1,7 +1,6 @@
 [![Streak](https://streak-stats.demolab.com?user=kushdhingra&theme=catppuccin-mocha&hide_border=true)](https://github.com/kushdhingra)
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=kushdhingra&theme=catppuccin_mocha&show_icons=true&hide_border=true)](https://github.com/kushdhingra)
-
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kushdhingra&theme=catppuccin_mocha&show_icons=true&layout=donut-vertical&hide_border=true)](https://github.com/kushdhingra)
 
 [![Discord](https://lanyard.cnrad.dev/api/1035869217796403220?bg=1e1e2e&borderRadius=20px&theme=dark&showDisplayName=false&hideTimestamp=false)](https://discord.com/users/1035869217796403220)
