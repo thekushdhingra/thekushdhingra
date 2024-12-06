@@ -5,16 +5,12 @@
 </div>
 
 <div align="center">
-  <div align="center">
   <a href="https://github.com/kushdhingra">
     <img src="https://github-readme-stats.vercel.app/api?username=kushdhingra&theme=catppuccin_mocha&show_icons=true&hide_border=true" alt="Stats" />
   </a>
-</div>
-<div align="center">
   <a href="https://github.com/kushdhingra">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushdhingra&theme=catppuccin_mocha&show_icons=true&layout=donut&hide_border=true" alt="Languages"/>
   </a>
-</div>
 </div>
 
 <div align="center">
