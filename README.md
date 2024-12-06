@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://github.com/kushdhingra">
+    <img src="https://streak-stats.demolab.com?user=kushdhingra&theme=catppuccin-mocha&hide_border=true" alt="Streak Stats" />
+  </a>
+</div>
+
 <table align="center">
   <tr>
     <td align="center">
