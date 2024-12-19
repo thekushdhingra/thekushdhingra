@@ -1,11 +1,5 @@
 <div align="center">
   <a href="https://github.com/kushdhingra">
-    <img src="https://streak-stats.demolab.com?user=kushdhingra&theme=catppuccin-mocha&hide_border=true" alt="Streak Stats" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/kushdhingra">
     <img src="https://github-readme-stats.vercel.app/api?username=kushdhingra&theme=catppuccin_mocha&show_icons=true&hide_border=true" alt="Stats" />
   </a>
   <a href="https://github.com/kushdhingra">
