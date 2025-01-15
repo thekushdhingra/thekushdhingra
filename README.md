@@ -1,15 +1,15 @@
 <div align="center">
   <a href="https://github.com/kushdhingra">
-    <img src="https://github-readme-stats.vercel.app/api?username=kushdhingra&theme=catppuccin_mocha&show_icons=true&hide_border=true" alt="Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kushdhingra&theme=github_dark_dimmed&show_icons=true&hide_border=true" alt="Stats" />
   </a>
   <a href="https://github.com/kushdhingra">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushdhingra&theme=catppuccin_mocha&show_icons=true&layout=donut&hide_border=true" alt="Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushdhingra&theme=github_dark_dimmed&show_icons=true&layout=donut&hide_border=true" alt="Languages"/>
   </a>
 </div>
 
 <div align="center">
   <a href="https://discord.com/users/1035869217796403220">
-    <img src="https://lanyard.cnrad.dev/api/1035869217796403220?bg=1e1e2e&borderRadius=20px&theme=dark&showDisplayName=false&hideTimestamp=false" alt="Discord" />
+    <img src="https://lanyard.cnrad.dev/api/1035869217796403220borderRadius=20px&theme=dark&showDisplayName=false&hideTimestamp=false" alt="Discord" />
   </a>
 </div>
 
