@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://discord.com/users/1035869217796403220">
-    <img src="https://lanyard.cnrad.dev/api/1035869217796403220borderRadius=20px&theme=dark&showDisplayName=false&hideTimestamp=false" alt="Discord" />
+    <img src="https://lanyard.cnrad.dev/api/1035869217796403220?borderRadius=20px&theme=dark&showDisplayName=false&hideTimestamp=false" alt="Discord" />
   </a>
 </div>
 
