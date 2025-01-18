@@ -1,8 +1,8 @@
 <a href="https://github.com/kushdhingra">
-    <img src="https://github-readme-stats.vercel.app/api?username=kushdhingra&show_icons=true&hide_border=true" alt="Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kushdhingra&theme=catppuccin_mocha&show_icons=true&hide_border=true" alt="Stats" />
 </a>
 <a href="https://github.com/kushdhingra">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushdhingra&show_icons=true&layout=donut&hide_border=true" alt="Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushdhingra&theme=catppuccin_mocha&show_icons=true&layout=donut&hide_border=true" alt="Languages"/>
   </a>
 
 ## Skills
