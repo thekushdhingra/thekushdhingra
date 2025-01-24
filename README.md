@@ -1,26 +1,26 @@
 <a href="https://github.com/kushdhingra">
-    <img src="https://github-readme-stats.vercel.app/api?username=kushdhingra&theme=catppuccin_mocha&show_icons=true&hide_border=true" alt="Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=thekushdhingra&theme=catppuccin_mocha&show_icons=true&hide_border=true" alt="Stats" />
 </a>
 <a href="https://github.com/kushdhingra">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushdhingra&theme=catppuccin_mocha&show_icons=true&layout=donut&hide_border=true" alt="Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekushdhingra&theme=catppuccin_mocha&show_icons=true&layout=donut&hide_border=true" alt="Languages"/>
   </a>
 
 ## Skills
 <div align="center">
-  <a href="https://github.com/kushdhingra">
+  <a href="/kushdhingra">
     <img src="https://skillicons.dev/icons?i=python,flask,selenium,html,css,javascript,ts,bash,react,nodejs,express,nextjs,git,github,postgresql,sqlite,figma,vscode,pycharm,vite,bootstrap,tailwind,npm,firebase,godot&theme=light&perline=5" alt="Skills" />
   </a>
 </div>
 
 ## Socials
 <div align="center">
-  <a href="https://www.linkedin.com/in/kush-dhingra-">
+  <a href="https://www.linkedin.com/in/thekushdhingra">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   <a href="https://x.com/thekushdhingra">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge" />
   </a>
-  <a href="https://www.youtube.com/@kushdhingra">
+  <a href="https://www.youtube.com/@thekushdhingra">
     <img src="https://img.shields.io/badge/Youtube-F61C0D?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" />
   </a>
   <a href="https://discord.com/users/1035869217796403220">
