@@ -1,13 +1,13 @@
-<a href="https://github.com/kushdhingra">
+<a href="https://github.com/thekushdhingra">
     <img src="https://github-readme-stats.vercel.app/api?username=thekushdhingra&theme=catppuccin_mocha&show_icons=true&hide_border=true" alt="Stats" />
 </a>
-<a href="https://github.com/kushdhingra">
+<a href="https://github.com/thekushdhingra">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekushdhingra&theme=catppuccin_mocha&show_icons=true&layout=donut&hide_border=true" alt="Languages"/>
   </a>
 
 ## Skills
 <div align="center">
-  <a href="/kushdhingra">
+  <a href="/thekushdhingra">
     <img src="https://skillicons.dev/icons?i=python,flask,selenium,html,css,javascript,ts,bash,react,nodejs,express,nextjs,git,github,postgresql,sqlite,figma,vscode,pycharm,vite,bootstrap,tailwind,npm,firebase,godot&theme=light&perline=5" alt="Skills" />
   </a>
 </div>
