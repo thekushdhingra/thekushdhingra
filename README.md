@@ -16,6 +16,7 @@
         <img src="https://raw.githubusercontent.com/thekushdhingra/thekushdhingra/refs/heads/output/snake.svg" alt="contributons" />
     </a>
 </div>
+
 ## Socials
 <div align="center">
   <a href="https://www.linkedin.com/in/thekushdhingra">
