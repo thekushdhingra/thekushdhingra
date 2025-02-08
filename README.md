@@ -1,12 +1,4 @@
 <div style="background: #181825 !important;">
-    <a href="https://github.com/thekushdhingra">
-    <img src="https://github-readme-stats.vercel.app/api?username=thekushdhingra&theme=catppuccin_mocha&show_icons=true&hide_border=true" alt="Stats" />
-</a>
-<a href="https://github.com/thekushdhingra">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekushdhingra&theme=catppuccin_mocha&show_icons=true&layout=donut&hide_border=true" alt="Languages"/>
-</a>
-
-## Skills
 <div align="center">
   <a href="h<a href="https://github.com/thekushdhingra">
     <img src="https://github-readme-stats.vercel.app/api?username=thekushdhingra&theme=catppuccin_mocha&show_icons=true&hide_border=true" alt="Stats" />
