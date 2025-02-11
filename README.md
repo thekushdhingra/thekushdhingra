@@ -6,7 +6,7 @@
 <a href="https://github.com/thekushdhingra">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekushdhingra&theme=catppuccin_mocha&show_icons=true&layout=donut&hide_border=true" alt="Languages"/>
 </a>
-</div
+</div>
 <div align="center">
   <h1>Tools and Languages</h1>
   <a href="https://github.com/thekushdhingra">
