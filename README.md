@@ -9,7 +9,7 @@
 </div>
 <div align="center">
   <a href="https://github.com/thekushdhingra">
-    <img src="https://github-contributor-stats.vercel.app/api?username=thekushdhingra&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true" alt="Contributions!" />
+    <img src="https://github-contributor-stats.vercel.app/api?username=thekushdhingra&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true&hide_border=true" alt="Contributions!" />
   </a>
 </div>
 <div align="center">
