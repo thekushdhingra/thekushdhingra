@@ -3,13 +3,10 @@
   <a href="https://github.com/thekushdhingra">
     <img src="https://github-readme-stats.vercel.app/api?username=thekushdhingra&theme=catppuccin_mocha&show_icons=true&hide_border=true" alt="Stats" />
   </a>
-  <a href="https://github.com/thekushdhingra">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekushdhingra&theme=catppuccin_mocha&show_icons=true&layout=donut&hide_border=true"     alt="Languages"/>
-  </a>
 </div>
 <div align="center">
   <a href="https://github.com/thekushdhingra">
-    <img src="https://github-contributor-stats.vercel.app/api?username=thekushdhingra&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true&hide_border=true" alt="Contributions!" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekushdhingra&theme=catppuccin_mocha&show_icons=true&layout=donut&hide_border=true"     alt="Languages"/>
   </a>
 </div>
 <div align="center">
