@@ -1,4 +1,6 @@
 
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+
 <div align="center">
   <a href="https://github.com/thekushdhingra">
     <img src="https://github-readme-stats.vercel.app/api?username=thekushdhingra&theme=catppuccin_mocha&show_icons=true&hide_border=true" alt="Stats" />
