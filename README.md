@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/thekushdhingra/">
-    <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=964&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=tokyonight&hide_border=true" alt="Time tracked!" />
+    <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=964&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=catppuccin_mocha&hide_border=true" alt="Time tracked!" />
   </a>
 </div>
 <div align="center">
@@ -10,7 +10,7 @@
 </div>
 <div align="center">
   <a href="https://github.com/thekushdhingra">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekushdhingra&theme=catppuccin_mocha&show_icons=true&layout=donut&hide_border=true"     alt="Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekushdhingra&theme=catppuccin_mocha&show_icons=true&layout=donut&hide_border=true" alt="Languages"/>
   </a>
 </div>
 <div align="center">
