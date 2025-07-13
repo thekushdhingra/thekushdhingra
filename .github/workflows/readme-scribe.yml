@@ -1,25 +1,28 @@
 name: README Scribe
 
 on:
-  workflow_dispatch: # manual trigger via GitHub UI
+  workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # daily at midnight UTC
+    - cron: '0 0 * * *'
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
+      - name: Checkout Repo
         uses: actions/checkout@v3
 
-      - name: Run readme-scribe
+      - name: Run readme-scribe with template
         uses: charmbracelet/readme-scribe@main
+        with:
+          template: markscribe-template.md
+          output: README.md
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           WAKATIME_URL: ${{ secrets.WAKATIME_URL }}
 
-      - name: Commit and Push changes
+      - name: Commit & Push
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
