@@ -16,9 +16,3 @@
   </a>
 </div>
 
-<div align="center">
-    <a href="https://github.com/thekushdhingra">
-        <img src="https://raw.githubusercontent.com/thekushdhingra/thekushdhingra/refs/heads/output/snake.svg" alt="contributons" />
-    </a>
-</div>
-
