@@ -39,4 +39,4 @@
 
 ---
 
-*“Sleep? Overrated when you got bugs to fix.”*
+<p align="center">*“Sleep? Overrated when you got bugs to fix.”*</p>
