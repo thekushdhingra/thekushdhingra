@@ -25,6 +25,9 @@
   </a>
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <div align="center">
   <a href="https://github.com/thekushdhingra">
     <img src="https://github-readme-stats.vercel.app/api?username=thekushdhingra&theme=transparent&show_icons=true&hide_border=true" alt="Stats" />
