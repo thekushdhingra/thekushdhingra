@@ -10,11 +10,8 @@
 ## 🚀 About Me
 
 - 👨‍💻 Software Engineer & builder of random sh*t that sometimes works.
-- 🤖 Love dabbling in web tech, automations, and lowkey obsessed with performance.
-- 🎮 When I'm not coding, I'm probably gaming or tweaking my setup.
+- 🤖 Love dabbling in tech, automations, and lowkey obsessed with performance.
 - 🔥 I break things so you don't have to.
-- 🌐 Check out my stuff here: [kushs.dev](https://kushs.dev)
-
 ---
 
 ## 📈 My Stats
