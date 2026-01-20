@@ -1,18 +1,11 @@
-<h1 align="center">Hey, I'm Kush 👋</h1>
+# Hi, I'm Kush Dhingra 👋
 
-<p align="center">
-  <b>Full-time engineer, part-time chaos agent 💻⚡</b><br/>
-  Code | Build | Break | Fix | Repeat
-</p>
+I'm a software engineer passionate about coding, learning, and building cool stuff.
 
 ---
 
-## 🚀 About Me
+### 🌐 Connect with me
 
-- 👨‍💻 Software Engineer & builder of random sh*t that sometimes works.
-- 🤖 Love dabbling in tech, automations, and lowkey obsessed with performance.
-- 🔥 I break things so you don't have to.
----
-
-
-<p align="center"><i>“Sleep? Overrated when you got bugs to fix.”</i></p>
+[![LinkedIn](https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/LinkedIn.svg)](https://www.linkedin.com/in/thekushdhingra/)  
+[![X](https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Twitter.svg)](https://x.com/thekushdhingra)  
+[![Email](https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Gmail-Dark.svg)](mailto:contact@kushs.dev)
